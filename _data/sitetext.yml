@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: 자영업 및 소상공인을 위한 무료 앱 제작 프로젝트
+    text: 오래가게
     button: Tell Me More
     buttonlink: "#services"
 
