@@ -53,9 +53,9 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Long-Run-Shop Project is Started"
+      - title: "오래가게 Project is Started"
         year: "2025"
-        desc: "자영업 및 소상공인을 위해 무료로 앱을 제작하여 제공하는 '우리가게' 프로젝트 시작.<br />이 프로젝트 취지에 공감한 각 분야별 전문가들이 모여 자신이 가진 기술과 경험을 나누고자 의기투합!"
+        desc: "자영업 및 소상공인을 위해 무료로 앱을 제작하여 제공하는 '우리가게' 프로젝트 시작. 이 프로젝트 취지에 공감한 각 분야별 전문가들이 모여 자신이 가진 기술과 경험을 나누고자 의기투합!"
         image: assets/img/timeline/0.png
         alt:
       - title: "An Agency is Born"
