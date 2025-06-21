@@ -21,9 +21,9 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Mobile Application"
+        desc: "모바일 애플리케이션 개발\n다양한 모바일(아이폰 및 안드로이드) 애플리케이션 개발 경험을 바탕으로 여러분의 비지니스에 맞는 앱을 제작합니다."
+        icon: fas fa-mobile #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
@@ -157,11 +157,9 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-      - url: https://instagram.com
+      - url: #
         icon: "fab fa-blogger"
-      - url: https://instagram.com
-        icon: "fab fa-tiktok"
-      - url: https://instagram.com
+      - url: #
         icon: "fab fa-github"
 
 en-001: #English (World)
