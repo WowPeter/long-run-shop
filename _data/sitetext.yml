@@ -75,7 +75,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "다음은<br>여러분의 가게<br>앱을 만듭니다."
 
   about:
     title: "About Us"
