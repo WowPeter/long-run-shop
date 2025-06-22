@@ -54,7 +54,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "**오래가게** Project is started"
+      - title: "오래가게 Project is started"
         year: "2025"
         desc: "자영업 및 소상공인을 위해 무료로 앱을 제작하여 제공하는 '**우리가게**' 프로젝트 시작."
         image: assets/img/timeline/0.png
