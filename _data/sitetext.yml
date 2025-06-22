@@ -32,13 +32,23 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart
       - title: "Analytics"
         desc: "고객에 맞는 비지니스 운영을 돕기 위해, 앱을 사용하는 여러분의 고객에 대해 분석하여 비지니스에 도움을 드립니다. 월 단위 분석 보고서를 제공합니다."
-        icon: fab fa-page4
+        icon: fab fa-pagelines
       - title: "Marketing"
         desc: "온라인 광고, 버스/지하철 광고, 지면 인쇄 등, 다양한 매체 광고 경험을 바탕으로 비지니스에 맞는 광고를 진행합니다."
         icon: fas fa-bullhorn
       - title: "Others"
         desc: "저희 '오래가게' 프로젝트 팀은 여러 기술과 경험들을 가지고 있습니다. 여러분의 비지니스에 도움이 되도록 저희의 역량을 최대한 발휘할 것입니다."
         icon: fab fa-dochub
+
+      - title: "Others"
+        desc: "저희 '오래가게' 프로젝트 팀은 여러 기술과 경험들을 가지고 있습니다. 여러분의 비지니스에 도움이 되도록 저희의 역량을 최대한 발휘할 것입니다."
+        icon: fab fa-paperclip
+      - title: "Others"
+        desc: "저희 '오래가게' 프로젝트 팀은 여러 기술과 경험들을 가지고 있습니다. 여러분의 비지니스에 도움이 되도록 저희의 역량을 최대한 발휘할 것입니다."
+        icon: fab fa-chart-simple
+      - title: "Others"
+        desc: "저희 '오래가게' 프로젝트 팀은 여러 기술과 경험들을 가지고 있습니다. 여러분의 비지니스에 도움이 되도록 저희의 역량을 최대한 발휘할 것입니다."
+        icon: fab fa-files
 
   portfolio:
     title: "Portfolio"
