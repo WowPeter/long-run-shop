@@ -103,7 +103,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "안경모, Michael"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/michael.png
         social:
           - url: https://korea-advertising.blogspot.com
             icon: fab fa-blogger
