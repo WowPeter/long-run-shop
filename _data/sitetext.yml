@@ -98,7 +98,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "오래가게 프로젝트를 함께 만들어 가시는 분들을 소개합니다."
-    subtext: 현업에 종사하고 계셔서 부득이하게 개인정보를 밝히기 어려우신 분들은 닉네임으로 표현되었습니다.
+    subtext: 소속된 회사의 방침 등으로 개인정보를 밝히기 어려우신 분들은 닉네임으로 표현되었습니다.
     section: team
     people:
       - name: "안경모, Michael"
