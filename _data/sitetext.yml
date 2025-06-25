@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: 자영업 및 소상공인을 위한 무료 앱 제작 프로젝트
     text: 오래가게
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   services:
     title: "What we can do"
