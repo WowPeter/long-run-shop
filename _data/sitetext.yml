@@ -111,10 +111,10 @@ en: &DEFAULT_EN
         role: "Lead Developer"
         image: assets/img/team/peter.jpeg
         social:
-          - url: https://another-dayz.blogspot.com
-            icon: fab fa-blogger
           - url: https://www.instagram.com/naya_peter
             icon: fab fa-instagram
+          - url: https://another-dayz.blogspot.com
+            icon: fab fa-blogger
       - name: "Ashley"
         role: "Lead Designer"
         image: assets/img/team/ashley.png
