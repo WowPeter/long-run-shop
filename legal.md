@@ -19,13 +19,13 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 사이트를 방문하실 때, 브라우저를 통해 기기 정보(IP 주소 등)를 자동으로 수집합니다. 또한 사이트를 탐색하는 동안 사용자의 사이트 이용 방식에 대한 정보도 수집합니다. 이와 같은 자동 수집 정보를 **“기기 정보”**라고 합니다.
 
-기기 정보는 **쿠키(Cookies)**를 통해 수집됩니다. 쿠키는 사용자의 기기에 저장되는 작은 데이터 파일입니다. 쿠키 및 쿠키 비활성화에 대한 자세한 내용은 http://www.allaboutcookies.org 참조해주세요.
+기기 정보는 **쿠키(Cookies)**를 통해 수집됩니다. 쿠키는 사용자의 기기에 저장되는 작은 데이터 파일입니다. 쿠키 및 쿠키 비활성화에 대한 자세한 내용은 <http://www.allaboutcookies.org> 참조해주세요.
 
 이러한 정보 수집은 Google Analytics를 통해 이루어집니다. 자세한 내용은 Google의 개인정보처리방침을 확인해주세요:
-https://www.google.com/intl/en/policies/privacy/
+<https://www.google.com/intl/en/policies/privacy/>
 
 Google Analytics를 원하지 않으실 경우, 다음 링크에서 수집을 거부(Opt-out) 하실 수 있습니다:
-https://tools.google.com/dlpage/gaoptout
+<https://tools.google.com/dlpage/gaoptout>
 
 Automatically Collected (Google Analytics):
 
