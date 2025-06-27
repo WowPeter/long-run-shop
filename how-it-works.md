@@ -10,6 +10,7 @@ background: grey
 <br>
 **오래가게 프로젝트**는 자영업 및 소상공인을 위한 무료 앱 제작 프로젝트입니다. 
 
+<br>
 <div class="col-lg-12 text-center"> 
     <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="width: 250px;" href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank">무료 앱 신청하기</a>
 </div>
