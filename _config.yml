@@ -19,10 +19,10 @@ url: https://wowpeter.github.io
 baseurl: "/long-run-shop"
 
 title      : Long Run Shop
-email      : trnfriends@gmail.com #this is also the email contact forms will go to
+email      : trnfriends@gmail.com
 description: "자영업 및 소상공인을 위한 무료 앱 제작 프로젝트"
 author     : Peter Hwang
-# logo:     #optional, defaults to site title
+# logo: #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
