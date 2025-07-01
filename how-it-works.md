@@ -12,13 +12,13 @@ background: grey
 자영업자와 소상공인들께 도움이 되고자,<br>
 각 분야의 현업 전문가들이 모여 시작한 "무료 앱 제작" 및 "기술 지원" 프로젝트입니다.
 
-<a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank">무료 앱 신청하기</a> 버튼을 클릭하여 신청하세요.
+<a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank" rel="noopener noreferrer">무료 앱 신청하기</a> 버튼을 클릭하여 신청하세요.
 
 ---
 
 #### 1. 신청서 작성하기 📝
 
-<a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank">무료 앱 신청하기</a> 버튼을 클릭하면 구글 양식(Google Forms)이 나타납니다. 양식에 맞게 다음의 항목들을 입력하고 제출(Submit) 버튼을 클릭합니다.
+<a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank" rel="noopener noreferrer">무료 앱 신청하기</a> 버튼을 클릭하면 구글 양식(Google Forms)이 나타납니다. 양식에 맞게 다음의 항목들을 입력하고 제출(Submit) 버튼을 클릭합니다.
 * 업체명(상호명)
 * 업체 주소
 * 사업자 성명
@@ -39,6 +39,6 @@ background: grey
 
 <br>
 <div class="col-lg-12 text-center"> 
-    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="width: 250px;" href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank">무료 앱 신청하기</a>
+    <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="width: 250px;" href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank" rel="noopener noreferrer">무료 앱 신청하기</a>
 </div>
 <br>
