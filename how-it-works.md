@@ -13,7 +13,7 @@ background: grey
 각 분야의 현업 전문가들이 모여 시작한 "무료 앱 제작" 및 "기술 지원" 프로젝트입니다.
 
 <a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank" rel="noopener noreferrer">무료 앱 신청하기</a> 버튼을 클릭하여 신청하세요.
-<br>
+<br><br>
 
 ---
 
