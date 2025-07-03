@@ -14,7 +14,9 @@ background: grey
 
 <a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank" rel="noopener noreferrer">무료 앱 신청하기</a> 버튼을 클릭하여 신청하세요.
 <br>
+
 ---
+
 <br>
 #### 1. 신청서 작성하기 📝
 
