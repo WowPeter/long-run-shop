@@ -18,6 +18,7 @@ background: grey
 ---
 
 <br>
+
 #### 1. 신청서 작성하기 📝
 
 <a href="https://forms.gle/D4HUKKyKvB5JuoAh7" target="_blank" rel="noopener noreferrer">무료 앱 신청하기</a> 버튼을 클릭하면 구글 양식(Google Forms)이 나타납니다. 양식에 맞게 다음의 항목들을 입력하고 제출(Submit) 버튼을 클릭합니다.
