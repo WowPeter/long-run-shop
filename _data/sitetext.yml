@@ -119,6 +119,10 @@ en: &DEFAULT_EN
         role: "Lead Designer"
         image: assets/img/team/ashley.png
         social:
+      - name: "James"
+        role: "Data Analyst"
+        image: assets/img/team/james.png
+        social:
 
   contact:
     title: "Contact Us"
